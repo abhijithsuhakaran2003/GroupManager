@@ -11,15 +11,15 @@ Can be found on telegram as [GroupManager](https://t.me/tg_groupmanagerbot).
 
 Alternatively, [find me on telegram](https://t.me/xditya)! (Keep all support questions in the support chat, where more people can help you.)
 
-You can also join our support group [here!](https://t.me/tg_groupmanagerbot)
+You can also join our support group [here!](https://t.me/catqueensupport)
 
 # Group
-[Join Discuss Group](https://t.me/giveaways_24hrs)
+[Join Discuss Group](https://t.me/catqueensupport)
 
 # Report error
-Report your problem along with your name to [this person](https://t.me/xditya)
+Report your problem along with your name to [this person](https://t.me/CatKing_ext)
 
 # Credits
-This repo is just a custom fork of [HarukaAya](https://gitlab.com/HarukaNetwork/OSS/HarukaAya)
+This repo is just a custom fork from Xaditya.
 
-Thanks to the [real developer](https://t.me/RealAkito)!
+You can fork it from here
