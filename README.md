@@ -7,9 +7,9 @@
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
-Can be found on telegram as [GroupManager](https://t.me/tg_groupmanagerbot).
+Can be found on telegram as [CAT QUEEN](https://t.me/Catqueen_bot).
 
-Alternatively, [find me on telegram](https://t.me/xditya)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/CatKing_ext) (Keep all support questions in the support chat, where more people can help you.)
 
 You can also join our support group [here!](https://t.me/catqueensupport)
 
